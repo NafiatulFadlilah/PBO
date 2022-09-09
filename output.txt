@@ -1,0 +1,8 @@
+Program Java Piramida NIM Do While Loop 
+Nama: NAFIATUL FADLILAH 
+NIM: 2141762030 
+Absen: 13 (GANJIL) 
+     2  
+    1 4  
+   1 7 6  
+  2 0 3 0  
